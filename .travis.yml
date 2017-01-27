@@ -1,5 +1,3 @@
 addons:
   artifacts:
-    debug: true
-    bucket: test-aws-bucket-appsmart
     s3_region: "us-east-1"
